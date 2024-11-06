@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 Hi, I'm Jeronimo Corigliano
 Programming student at UTN. Focused on JavaScript, currently exploring web technologies
 
 
