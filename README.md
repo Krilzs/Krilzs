@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Jeronimo Corigliano
 Junior web developer passionate about building innovative solutions. Experienced in full-stack development.
 
-Skills: JavaScript, React, Node.js, SQL, PHP, HTML, CSS.
-Interests: Front-end and back-end development, creating engaging user interfaces.
-Seeking: Opportunities to grow and learn in the world of web development.
+<strong>Skills: </strong>JavaScript, React, Node.js, SQL, PHP, HTML, CSS. </br>
+<strong>Interests:</strong> Front-end and back-end development, creating engaging user interfaces.</br>
+<strong>Seeking:</strong> Opportunities to grow and learn in the world of web development.
 
 
 ## 🌐 Socials:
