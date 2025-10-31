@@ -70,7 +70,7 @@
 
 ### 🌐 Contact & Links
 
-- 📄 [Portfolio](https://jeronimofernandez.netlify.app/)
+- 📄 [Portfolio](https://www.jerocorigliano.site/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/jeronimo-fernandez-corigliano-694195288/)
 
 ---
